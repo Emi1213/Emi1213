@@ -1,6 +1,5 @@
 ### Hi👋, I'm Emilia Galarza
-
-###🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 
 <img src="https://github-readme-stats.vercel.app/api?username=Emi1213&show_icons=true&theme=tokyonight" alt=""/>
 <!--
