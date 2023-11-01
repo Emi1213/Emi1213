@@ -2,6 +2,7 @@
 🌱 I’m currently learning ...
 
 
+### Github Activity ✔:
 
 <a href="https://github.com/Emi1213">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emi1213&theme=tokyonight" />
