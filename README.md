@@ -19,6 +19,24 @@
 <br/>
 <br/>
 
+<strong>
+Connect with me🤝:
+</strong>
+
+<br/>
+<br/>
+
+<a href="https://github.com/Emi1213">
+  <img align="left" alt="Emilia's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a>
+
+
+<a href="https://www.linkedin.com/in/emilia-galarza-b6b13a226">
+  <img align="left" alt="Emilia's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+
+<br/>
+
 
 ### Github Activity ✔:
 
