@@ -1,9 +1,10 @@
 <h3 align="center">Hi 👋, I'm Emilia Galarza</h3>
 
-### About me:
--🌱 I’m currently learning Frontend Development.
--🤔 I’m looking for help with Open source Contribution.
--💬 You can ask me about Frontend and Backend.
+<p align="center">
+  🌱 I’m currently learning Frontend Development.<br>
+  🤔 I’m looking for help with Open Source Contribution.<br>
+  💬 You can ask me about Frontend and Backend.
+</p>
 
 <strong>
   Languages and Tools🛠:
