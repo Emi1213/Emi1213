@@ -3,10 +3,10 @@
 <p >
   -🌱 I’m currently learning Frontend Development.<br>
   -🤔 I’m looking for help with Open Source Contribution.<br>
-  -💬 You can ask me about Frontend and Backend.
-  -🌱 I'm currently diving deep into Frontend Development, with a special focus on modern frameworks like React and Vue.js.
-  -🎨 I'm passionate about crafting sleek user interfaces and interactive experiences that drive web usability and design.
-  -🤝 I'm open to collaborations on projects looking to enhance the accessibility and interactivity of web applications.
+  -💬 You can ask me about Frontend and Backend.<br>
+  -🌱 I'm currently diving deep into Frontend Development, with a special focus on modern frameworks like React and Vue.js.<br>
+  -🎨 I'm passionate about crafting sleek user interfaces and interactive experiences that drive web usability and design.<br>
+  -🤝 I'm open to collaborations on projects looking to enhance the accessibility and interactivity of web applications.<br>
 
 </p>
 
@@ -56,8 +56,18 @@ Connect with me🤝:
 <a href="https://github.com/Emi1213">
   <img src="https://github-readme-stats.vercel.app/api?username=Emi1213&show_icons=true&theme=tokyonight" alt=""/>
 </a>
+<br>
+<br>
 
+## How to Contribute
+If you're interested in contributing to any of my projects, please follow the steps below:
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/amazing-feature`).
+3. Make your changes and commit them (`git commit -m 'Add some amazing feature'`).
+4. Push to the branch (`git push origin feature/amazing-feature`).
+5. Open a Pull Request.
 
+I appreciate any kind of contribution, from bug fixes to new features!
 <!--
 **Emi1213/Emi1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
