@@ -3,7 +3,7 @@
 <p >
   -🌱 I’m currently learning Frontend Development.<br>
   -🤔 I’m looking for help with Open Source Contribution.<br>
-  -💬 You can ask me about Frontend and Backend.<br>
+  -💬 You can ask me about Frontend.<br>
   -🌱 I'm currently diving deep into Frontend Development, with a special focus on modern frameworks like React and Vue.js.<br>
   -🎨 I'm passionate about crafting sleek user interfaces and interactive experiences that drive web usability and design.<br>
   -🤝 I'm open to collaborations on projects looking to enhance the accessibility and interactivity of web applications.<br>
