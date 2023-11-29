@@ -1,9 +1,5 @@
 <h3 align="center">Hi 👋, I'm Emilia Galarza</h3>
-<div align="center">
-  <a href="https://Emi1213.github.io/Emi1213/">
-  <img  src="https://github.com/Emi1213/Emi1213/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 <p >
   🌱 I’m currently learning Frontend Development.<br>
   🤔 I’m looking for help with Open Source Contribution.<br>
