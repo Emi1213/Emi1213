@@ -1,4 +1,7 @@
 <h3 align="center">Hi 👋, I'm Emilia Galarza</h3>
+<br>
+<br>
+<code><img src="https://media.istockphoto.com/id/1502289545/vector/technology-of-software-development-web-design-programming-concept-program-code-on-screen.jpg?s=612x612&w=0&k=20&c=IjkXl6uCuINBjLKmCq95TnhSQaHSAcJE2HzcNK42tv4="><code>
 
 <p >
   -🌱 I’m currently learning Frontend Development.<br>
