@@ -53,15 +53,7 @@ Connect with me🤝:
   <img src="https://github-readme-stats.vercel.app/api?username=Emi1213&show_icons=true&theme=tokyonight" alt=""/>
 </a>
 
-## How to Contribute
-If you're interested in contributing to any of my projects, please follow the steps below:
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/amazing-feature`).
-3. Make your changes and commit them (`git commit -m 'Add some amazing feature'`).
-4. Push to the branch (`git push origin feature/amazing-feature`).
-5. Open a Pull Request.
 
-I appreciate any kind of contribution, from bug fixes to new features!
 <!--
 **Emi1213/Emi1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
