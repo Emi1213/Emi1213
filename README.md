@@ -35,13 +35,12 @@ Connect with me🤝:
 <br/>
 <br/>
 
+### Connect with me🤝:
 <a href="https://github.com/Emi1213">
-  <img align="left" alt="Emilia's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <img align="left" alt="Emilia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" />
 </a>
-
-
 <a href="https://www.linkedin.com/in/emilia-galarza-b6b13a226">
-  <img align="left" alt="Emilia's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="left" alt="Emilia's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
 </a>
 
 <br/>
@@ -50,10 +49,10 @@ Connect with me🤝:
 ### Github Activity ✔:
 
 <a href="https://github.com/Emi1213">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emi1213&theme=tokyonight&cache_seconds=1800" />
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emi1213&theme=tokyonight" />
 </a>
 <a href="https://github.com/Emi1213">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emi1213&show_icons=true&theme=tokyonight&cache_seconds=1800" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emi1213&theme=tokyonight" />
 </a>
 
 <br>
