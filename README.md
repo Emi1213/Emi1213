@@ -34,8 +34,6 @@ Connect with me🤝:
 
 <br/>
 <br/>
-
-### Connect with me🤝:
 <a href="https://github.com/Emi1213">
   <img align="left" alt="Emilia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" />
 </a>
