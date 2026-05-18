@@ -50,11 +50,12 @@ Connect with me🤝:
 ### Github Activity ✔:
 
 <a href="https://github.com/Emi1213">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emi1213&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emi1213&theme=tokyonight&cache_seconds=1800" />
 </a>
 <a href="https://github.com/Emi1213">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emi1213&show_icons=true&theme=tokyonight" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Emi1213&show_icons=true&theme=tokyonight&cache_seconds=1800" alt=""/>
 </a>
+
 <br>
 <br>
 <br>
